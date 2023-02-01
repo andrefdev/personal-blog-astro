@@ -35,5 +35,3 @@ fields:
   label: description
   config:
     required: true
-pages:
-- src/content/blog/hola.md
